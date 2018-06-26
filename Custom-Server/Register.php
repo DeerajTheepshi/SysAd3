@@ -31,7 +31,7 @@
     </p>
 
   <p>
-    Already have an account? Login from  : <a href="/lol"> Login Here ! </a>
+    Already have an account? Login from  : <a href="/"> Login Here ! </a>
   </p>
   </form>
   </body>
